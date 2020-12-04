@@ -69,8 +69,8 @@ Smart contracts applications, deployed on Terra
 ## Wallets
 
 - [Terra Station](https://station.terra.money/) - Web / Desktop wallet, by Terraform Labs
-- [Lunie](https://lunie.io/) - Staking-focused wallet with mobile support
 - [ZenGo](https://zengo.com/) - User-friendly and secure mobile crypto wallet with Terra support
+- [Lunie](https://lunie.io/) - Staking-focused wallet with mobile support (Discontinued)
 
 ## Contribute
 
