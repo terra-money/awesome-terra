@@ -41,7 +41,9 @@ Applications with large-scale adoption, powered by Terra
 
 ### dApps
 
-Smart contracts applications, deployed on Terra.
+TeFiApp https://www.tefi.app/ links to most of dApps: TerraSwap, Mirror, Anchor.
+
+Smart contracts applications, deployed on Terra:
 
 - [Terraswap](https://terraswap.io) - Uniswap-inspired automated market maker on Terra, by DELIGHT validator
 - [Mirror](https://mirror.finance) - Decentralized synthetic assets trading and yield farming protocol
