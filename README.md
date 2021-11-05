@@ -46,6 +46,10 @@ Smart contracts applications, deployed on Terra.
 - [Terraswap](https://terraswap.io) - Uniswap-inspired automated market maker on Terra, by DELIGHT validator
 - [Mirror](https://mirror.finance) - Decentralized synthetic assets trading and yield farming protocol
 
+NFTs 
+
+- [XYZ](https://github.com/collectxyz/collectxyz-nft-contract) - core NFT smart contract that implements xyz, a base layer for metaverses on the Terra blockchain.
+
 ## Block Explorers
 
 - [Terra Finder](https://finder.terra.money) - Official block explorer by Terraform labs
@@ -60,7 +64,6 @@ Smart contracts applications, deployed on Terra.
 
 ### Smart Contracts
 - [Cosmwasm Plus](https://github.com/terra-money/cosmwasm-plus) - Production Quality contracts under open source licenses
-- [Houston](https://github.com/terra-money/houston) - Terra Smart Contract development toolchain
 
 ### Testing
 
