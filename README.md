@@ -37,7 +37,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 Applications with large-scale adoption, powered by Terra
 
 - [CHAI](https://chai.finance) - Payment gateway with 2m+ users operating in SEAsia providing discounts from seigniorage
-- [memeChat](http://memechat.mn/) - Payment gateway in Monogolia using TerraMNT
+- [memeChat](http://memechat.mn/) - Payment gateway in Mongolia using TerraMNT
 
 ### dApps
 
