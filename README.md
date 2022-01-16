@@ -52,6 +52,7 @@ Smart contracts applications, deployed on Terra.
 - [StakeID](http://terra.stake.id/) - block explorer for Terra by Staking Fund
 - [Figment Hubble](https://hubble.figment.io/terra/chains/columbus-4) - block explorer by Figment
 - [Ping Explorer](https://ping.pub/terra-luna) - block explorer by Ping.pub
+- [ATOMScan](https://atomscan.com/terra) - Block explorer by ATOMScan
 
 ## Development Tools
 
