@@ -67,10 +67,6 @@ Popular apps deployed on Terra.
 - [Terrain](https://github.com/terra-money/terrain) - A cli, similar to Ethereum's hardhat to make scaffolding and deploying dApps easy
 - [Wallet Provider](https://github.com/terra-money/wallet-provider) - A library that makes it easy to build React apps
 
-### Example Projects
-
-- [Terra Jump Insane Counter](https://github.com/octalmage/terra-jump-insane-counter)
-
 ### Testing
 
 - [LocalTerra](https://github.com/terra-money/LocalTerra) - Local, configurable one-click testnet for Terra
@@ -94,13 +90,18 @@ Popular apps deployed on Terra.
 - [LunaRichList](https://Lunarichlist.com)
 - [uniWhales Terra Bridge Tracker](https://app.uniwhales.io/terra/bridge-tracker)
 
+## Example Projects
+
+- [Terra Jump Insane Counter](https://github.com/octalmage/terra-jump-insane-counter)
+- [Querying Contracts Example](https://github.com/moonmidas/query-contract) - Example for querying another contract inside cosmwasm.
+- [Bedrock](https://github.com/senpai-so/bedrock) Bedrock helps you launch NFT's on Terra
+
 ## Smart Contracts
 
 ### Smart Contract Templates
 
 - [CW Plus](https://github.com/CosmWasm/cw-plus) - Production Quality contracts under open source licenses
 - [CW NFTs](https://github.com/CosmWasm/cw-nfts) - NFT standard & examples in the CosmWasm ecosystem
-- [Querying Contracts Example](https://github.com/moonmidas/query-contract) - Example for querying another contract inside cosmwasm.
 
 ### Popular Token Contracts
 
