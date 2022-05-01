@@ -32,19 +32,24 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Whitepaper](https://terra.money/Terra_White_paper.pdf) - Latest Terra whitepaper
 - [Agora](https://agora.terra.money) - Research forum for the development of Terra
 
-## Applications
+## Real-world Applications
 
 Applications with large-scale adoption, powered by Terra
 
-- [CHAI](https://chai.finance) - Payment gateway with 2m+ users operating in SEAsia providing discounts from seigniorage
-- [memeChat](http://memechat.mn/) - Payment gateway in Monogolia using TerraMNT
+- [CHAI](https://chai.finance) - Payment gateway with 3m+ users operating in SEAsia providing discounts from seigniorage
+- [memeChat](http://memechat.mn/) - Payment gateway in Mongolia using TerraMNT
 
-### dApps
+### dApps & Protocols
 
 Smart contracts applications, deployed on Terra.
 
 - [Terraswap](https://terraswap.io) - Uniswap-inspired automated market maker on Terra, by DELIGHT validator
-- [Mirror](https://mirror.finance) - Decentralized synthetic assets trading and yield farming protocol
+- [Mirror](https://mirror.finance) - Decentralized synthetic assets trading and yield farming protoco
+- [Astroport](https://astroport.fi) - Terra's new AMM powered by the ASTRO token
+
+## NFTs
+
+- [XYZ](https://github.com/collectxyz/collectxyz-nft-contract) - core NFT smart contract that implements xyz, a base layer for metaverses on the Terra blockchain.
 
 ## Block Explorers
 
@@ -52,16 +57,24 @@ Smart contracts applications, deployed on Terra.
 - [StakeID](http://terra.stake.id/) - block explorer for Terra by Staking Fund
 - [Figment Hubble](https://hubble.figment.io/terra/chains/columbus-4) - block explorer by Figment
 - [Ping Explorer](https://ping.pub/terra-luna) - block explorer by Ping.pub
+- [ATOMScan](https://atomscan.com/terra) - Block explorer by ATOMScan
 
 ## Development Tools
 
 ### SDKs
 
 - [Terra.js](https://github.com/terra-money/terra.js) - JavaScript SDK for Terra
+- [Terrain](https://github.com/terra-money/terrain) - A cli, similar to Ethereum's hardhat to make scaffolding and deploying dApps easy
+- [Wallet Provider](https://github.com/terra-money/wallet-provider) - A library that makes it easy to build React apps
+
+### Example Projects
+
+- [Terra Jump Insane Counter](https://github.com/octalmage/terra-jump-insane-counter)
 
 ### Smart Contracts
-- [Cosmwasm Plus](https://github.com/terra-money/cosmwasm-plus) - Production Quality contracts under open source licenses
-- [Houston](https://github.com/terra-money/houston) - Terra Smart Contract development toolchain
+
+- [CW Plus](https://github.com/CosmWasm/cw-plus) - Production Quality contracts under open source licenses
+- [CW NFTs](https://github.com/CosmWasm/cw-nfts) - NFT standard & examples in the CosmWasm ecosystem
 
 ### Testing
 
@@ -84,3 +97,10 @@ Smart contracts applications, deployed on Terra.
 - [Flipside Crypto](https://terra.flipsidecrypto.com)
 - [SmartStake](https://terra.smartstake.io)
 - [LunaRichList](https://Lunarichlist.com)
+
+## Popular Token Contracts
+
+- [Steak Contracts](https://github.com/st4k3h0us3/steak-contracts) - Liquid staking protocol for the Cosmos
+- [White Whale DeFi](https://github.com/White-Whale-Defi-Platform/contracts) - A novel decentralised arbitrage platform built on Terra
+- [Astroport DEX Core Contracts](https://github.com/astroport-fi/astroport-core) - Multi pool type automated market-maker (AMM) protoctol powered by smart contracts on Terra
+- [Lido Terra Contracts](https://github.com/lidofinance/lido-terra-contracts) - Smart contracts powering Lido Liquid Staking on Terra
