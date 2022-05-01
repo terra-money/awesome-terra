@@ -117,9 +117,10 @@ Popular apps deployed on Terra.
 
 - [XYZ](https://github.com/collectxyz/collectxyz-nft-contract) - core NFT smart contract that implements xyz, a base layer for metaverses on the Terra blockchain.
 
-## Learning
+## Tutorials & Learning
 
 - [Terra Academy](https://academy.terra.money)
 - [Buildspace: Terra, Rust & React](https://buildspace.so/terra)
 - [AM's Homework](https://github.com/am-work/terra-homework) - Terra homework assignment by `am-work`. Useful for
   getting started with smart contract basics
+- [NFT's on Terra](https://github.com/terran6/nft-on-terra) - A step by step guide to minting your own NFT on Terra
