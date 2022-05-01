@@ -41,15 +41,14 @@ Applications with large-scale adoption, powered by Terra
 
 ### dApps & Protocols
 
-Smart contracts applications, deployed on Terra.
+Popular apps deployed on Terra.
 
 - [Terraswap](https://terraswap.io) - Uniswap-inspired automated market maker on Terra, by DELIGHT validator
 - [Mirror](https://mirror.finance) - Decentralized synthetic assets trading and yield farming protoco
 - [Astroport](https://astroport.fi) - Terra's new AMM powered by the ASTRO token
-
-## NFTs
-
-- [XYZ](https://github.com/collectxyz/collectxyz-nft-contract) - core NFT smart contract that implements xyz, a base layer for metaverses on the Terra blockchain.
+- [Anchor](https://anchorprotocol.com/) - Better savings bank account for Terra
+- [Nexus Protocol](https://nexusprotoctol.app) - Maximize your yields in the Terra ecosystem with Terra’s first yield optimizer and liquidation protector vaults
+- [Random Earth NFTs](https://randomearth.io) - One of Terra's popular NFT websites
 
 ## Block Explorers
 
@@ -105,6 +104,12 @@ Smart contracts applications, deployed on Terra.
 - [White Whale DeFi](https://github.com/White-Whale-Defi-Platform/contracts) - A novel decentralised arbitrage platform built on Terra
 - [Astroport DEX Core Contracts](https://github.com/astroport-fi/astroport-core) - Multi pool type automated market-maker (AMM) protoctol powered by smart contracts on Terra
 - [Lido Terra Contracts](https://github.com/lidofinance/lido-terra-contracts) - Smart contracts powering Lido Liquid Staking on Terra
+- [Anchor Token Contracts (ANC)](https://github.com/Anchor-Protocol/anchor-token-contracts) - Money Market smart contracts implementing Anchor Protocol on the Terra blockchain.
+- [Nebula Contracts](https://github.com/nebula-protocol/nebula-contracts)
+
+## NFT Contracts
+
+- [XYZ](https://github.com/collectxyz/collectxyz-nft-contract) - core NFT smart contract that implements xyz, a base layer for metaverses on the Terra blockchain.
 
 ## Learning
 
