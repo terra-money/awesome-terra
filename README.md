@@ -97,6 +97,7 @@ Smart contracts applications, deployed on Terra.
 - [Flipside Crypto](https://terra.flipsidecrypto.com)
 - [SmartStake](https://terra.smartstake.io)
 - [LunaRichList](https://Lunarichlist.com)
+- [uniWhales Terra Bridge Tracker](https://app.uniwhales.io/terra/bridge-tracker)
 
 ## Popular Token Contracts
 
@@ -104,3 +105,8 @@ Smart contracts applications, deployed on Terra.
 - [White Whale DeFi](https://github.com/White-Whale-Defi-Platform/contracts) - A novel decentralised arbitrage platform built on Terra
 - [Astroport DEX Core Contracts](https://github.com/astroport-fi/astroport-core) - Multi pool type automated market-maker (AMM) protoctol powered by smart contracts on Terra
 - [Lido Terra Contracts](https://github.com/lidofinance/lido-terra-contracts) - Smart contracts powering Lido Liquid Staking on Terra
+
+## Learning
+
+- [Terra Academy](https://academy.terra.money)
+- [Buildspace: Terra, Rust & React](https://buildspace.so/terra)
