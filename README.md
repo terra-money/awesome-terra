@@ -46,9 +46,10 @@ Popular apps deployed on Terra.
 - [Terraswap](https://terraswap.io) - Uniswap-inspired automated market maker on Terra, by DELIGHT validator
 - [Mirror](https://mirror.finance) - Decentralized synthetic assets trading and yield farming protoco
 - [Astroport](https://astroport.fi) - Terra's new AMM powered by the ASTRO token
-- [Anchor](https://anchorprotocol.com/) - Better savings bank account for Terra
+- [Anchor](https://anchorprotocol.com) - Better savings bank account for Terra
 - [Nexus Protocol](https://nexusprotoctol.app) - Maximize your yields in the Terra ecosystem with Terra’s first yield optimizer and liquidation protector vaults
 - [Random Earth NFTs](https://randomearth.io) - One of Terra's popular NFT websites
+- [Prism Protoctol](https://prismprotocol.app) - Amplify your rewards on Terra
 
 ## Block Explorers
 
@@ -69,11 +70,6 @@ Popular apps deployed on Terra.
 ### Example Projects
 
 - [Terra Jump Insane Counter](https://github.com/octalmage/terra-jump-insane-counter)
-
-### Smart Contracts
-
-- [CW Plus](https://github.com/CosmWasm/cw-plus) - Production Quality contracts under open source licenses
-- [CW NFTs](https://github.com/CosmWasm/cw-nfts) - NFT standard & examples in the CosmWasm ecosystem
 
 ### Testing
 
@@ -98,7 +94,15 @@ Popular apps deployed on Terra.
 - [LunaRichList](https://Lunarichlist.com)
 - [uniWhales Terra Bridge Tracker](https://app.uniwhales.io/terra/bridge-tracker)
 
-## Popular Token Contracts
+## Smart Contracts
+
+### Smart Contract Templates
+
+- [CW Plus](https://github.com/CosmWasm/cw-plus) - Production Quality contracts under open source licenses
+- [CW NFTs](https://github.com/CosmWasm/cw-nfts) - NFT standard & examples in the CosmWasm ecosystem
+- [Querying Contracts Example](https://github.com/moonmidas/query-contract) - Example for querying another contract inside cosmwasm.
+
+### Popular Token Contracts
 
 - [Steak Contracts](https://github.com/st4k3h0us3/steak-contracts) - Liquid staking protocol for the Cosmos
 - [White Whale DeFi](https://github.com/White-Whale-Defi-Platform/contracts) - A novel decentralised arbitrage platform built on Terra
@@ -106,8 +110,9 @@ Popular apps deployed on Terra.
 - [Lido Terra Contracts](https://github.com/lidofinance/lido-terra-contracts) - Smart contracts powering Lido Liquid Staking on Terra
 - [Anchor Token Contracts (ANC)](https://github.com/Anchor-Protocol/anchor-token-contracts) - Money Market smart contracts implementing Anchor Protocol on the Terra blockchain.
 - [Nebula Contracts](https://github.com/nebula-protocol/nebula-contracts)
+- [Prism Protoctol Contracts](https://github.com/prism-finance/prism-contracts) - Prism Protocol allows for the refracting of assets into their principle and yield components to facilitate greater composability and liquidity to users
 
-## NFT Contracts
+### NFT Contracts
 
 - [XYZ](https://github.com/collectxyz/collectxyz-nft-contract) - core NFT smart contract that implements xyz, a base layer for metaverses on the Terra blockchain.
 
@@ -115,3 +120,5 @@ Popular apps deployed on Terra.
 
 - [Terra Academy](https://academy.terra.money)
 - [Buildspace: Terra, Rust & React](https://buildspace.so/terra)
+- [AM's Homework](https://github.com/am-work/terra-homework) - Terra homework assignment by `am-work`. Useful for
+  getting started with smart contract basics
