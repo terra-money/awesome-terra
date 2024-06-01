@@ -82,6 +82,7 @@ Popular apps deployed on Terra.
 - [Terra Station](https://station.terra.money/) - Web / Desktop wallet, by Terraform Labs
 - [ZenGo](https://zengo.com/) - User-friendly and secure mobile crypto wallet with Terra support
 - [Lunie](https://lunie.io/) - Staking-focused wallet with mobile support (Discontinued)
+- [Coinhub](https://www.coinhub.org/) - User-friendly multi-chain mobile crypto wallet
 
 ## Analytics & Dashboards
 
